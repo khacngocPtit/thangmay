@@ -1,10 +1,12 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
+    <base href="{{asset('')}}">
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link REL="SHORTCUT ICON" HREF="images/icon-logo.png">
     <base href="{{asset('')}}">
-	<title>UNIECO | @yield('title')</title>
+	<title>UNIECO - @yield('title')</title>
 	<link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="libs/OwlCarousel2/css/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="libs/OwlCarousel2/css/owl.theme.default.min.css">
