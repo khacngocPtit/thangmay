@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('master-layout');
+});
+Route::get('trangchu', function () {
+    return view('pages.trangchu');
 });
