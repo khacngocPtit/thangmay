@@ -71,7 +71,7 @@
                     	<a href=""><h4 class="title_block">Sản phẩm nổi bật</h4></a>
                     	<div class="spsl" style="">
                     		 <div class="box21">
-                        <a href=""><img src="{{ asset('images/may.jpg') }}" alt=""></a>
+                        <a href=""><img src="{{ asset('images/13.jpg') }}" alt=""></a>
                         <div class="box-content">
                             <h4 class="title">TỦ ĐIỆN THANG MÁY SICOR [Ý]</h4>
                             <p class="description">7.000.000đ</p>

@@ -29,4 +29,12 @@ Route::get('/linhkienthangcuon', function () {
 Route::get('/linhkien', function () {
     return view('pages.linhkien');
 });
-
+Route::get('/gioithieu', function () {
+    return view('pages.gioithieu');
+});
+Route::get('/dichvu', function () {
+    return view('pages.dichvu');
+});
+Route::get('/baotri', function () {
+    return view('pages.baotri');
+});
