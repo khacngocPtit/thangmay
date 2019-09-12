@@ -17,6 +17,19 @@ Route::get('/', function () {
 Route::get('trangchu', function () {
     return view('pages.trangchu');
 });
-Route::get('gioithieu', function () {
-    return view('pages.gioithieu');
-})->name('gioi-thieu');
+
+Route::get('dichvu',function(){
+	return view('pages.dichvu');
+});
+Route::get('/sanpham', function (){
+    return view('pages.sanpham');
+});
+Route::get('/linhkienthangmay', function () {
+    return view('pages.linhkienthangmay');
+});
+Route::get('/linhkienthangcuon', function () {
+    return view('pages.linhkienthangcuon');
+});
+Route::get('/linhkien', function () {
+    return view('pages.linhkien');
+});
