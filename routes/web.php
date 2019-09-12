@@ -12,13 +12,21 @@
 */
 
 Route::get('/', function () {
-<<<<<<< HEAD
     return view('master-layout');
 });
 Route::get('trangchu', function () {
     return view('pages.trangchu');
 });
-=======
-    return view('pages.gioithieu');
-})->name('gioi-thieu');
->>>>>>> 838482f73437dd90af628351b14f80faf356cf1d
+Route::get('/sanpham', function () {
+    return view('pages.sanpham');
+});
+Route::get('/linhkienthangmay', function () {
+    return view('pages.linhkienthangmay');
+});
+Route::get('/linhkienthangcuon', function () {
+    return view('pages.linhkienthangcuon');
+});
+Route::get('/linhkien', function () {
+    return view('pages.linhkien')
+});
+
