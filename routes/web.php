@@ -20,7 +20,8 @@ Route::get('trangchu', function () {
 
 Route::get('dichvu',function(){
 	return view('pages.dichvu');
-Route::get('/sanpham', function () {
+});
+Route::get('/sanpham', function (){
     return view('pages.sanpham');
 });
 Route::get('/linhkienthangmay', function () {
