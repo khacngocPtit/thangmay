@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
+
 <!DOCTYPE html>
->>>>>>> 838482f73437dd90af628351b14f80faf356cf1d
 <html lang="en">
 <head>
     <base href="{{asset('')}}">
