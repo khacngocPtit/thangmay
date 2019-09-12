@@ -56,11 +56,11 @@
 		<i class="fas fa-search search ic1"></i>
 			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 			<a class="list-menu-rsp" href="#">Trang Chủ</a>
-			<a class="list-menu-rsp" href="#">Dịch vụ</a>
-			<a class="list-menu-rsp" href="#">Blog</a>
-			<a class="list-menu-rsp" href="#">Giới Thiệu</a>			
-			<a class="list-menu-rsp" href="">Giỏ Hàng</a>
-			<a class="list-menu-rsp" href="">Đăng Nhập</a>
-			<a class="list-menu-rsp" href="">Đăng Ký</a>
+			<a class="list-menu-rsp" href="#">Giới Thiệu</a>
+			<a class="list-menu-rsp" href="#">Linh Kiện</a>
+			<a class="list-menu-rsp" href="#">Dịch Vụ</a>			
+			<a class="list-menu-rsp" href="">Tin Tức</a>
+			<a class="list-menu-rsp" href="">Liên Hệ</a>
+			
 		</div>
 	</div>

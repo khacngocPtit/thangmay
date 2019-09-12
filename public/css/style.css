@@ -12,7 +12,7 @@ img{
 	background-position: center; 
 }
 #header1{
-	background-color: #2D3E50;
+	background-color: #f3cc29;
 	width: 100%;
 }
 .ic{
@@ -197,24 +197,10 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
-	
-}
-@media (min-width: 411px) and (max-width: 767px){
-	#header1,
-	#header2,
-	.menu-content{
-		display: none;
-	}
-	#header3{
-		background-color: #fff;
-	}
-	.menu-rsp{
-		display: block;
-		margin-top: 4%;
-		
-	}
-	.sidenav {
-		padding-top: 20%;
+	.ip-tim{
+		width: 80%;
+		margin-left: 10%;
+		border-radius:10px;
 	}
 	
 }
@@ -235,7 +221,34 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
-	
+	.ip-tim{
+		width: 80%;
+		margin-left: 10%;
+		border-radius:10px;
+	}
+}
+@media (min-width: 411px) and (max-width: 767px){
+	#header1,
+	#header2,
+	.menu-content{
+		display: none;
+	}
+	#header3{
+		background-color: #fff;
+	}
+	.menu-rsp{
+		display: block;
+		margin-top: 4%;
+		
+	}
+	.sidenav {
+		padding-top: 20%;
+	}
+	.ip-tim{
+		width: 80%;
+		margin-left: 10%;
+		border-radius:10px;
+	}
 }
 @media (min-width: 768px) and (max-width: 1023px){
 	#header1,
@@ -254,7 +267,11 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
-
+	.ip-tim{
+		width: 80%;
+		margin-left: 10%;
+		border-radius:10px;
+	}
 }
 @media (min-width: 1024px) and (max-width: 1025px){
 	.ip-tim{
