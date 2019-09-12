@@ -17,16 +17,15 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
-    
-    
+    <link rel="stylesheet" href="{{asset('css/linhkien.css')}}">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
     @yield('css')
 </head>
 <body>
     @include('header')
     @yield('content')
     @include('footer')
-
-	
 </body>
     <script src="js/vue.js"></script>
     <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
@@ -38,5 +37,8 @@
     <script type="text/javascript" src="libs/WOW-master/js/wow.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="js/style.js"></script>
+     <script type="text/javascript" src="{{ asset('js/linhkien.js')}}"></script>
+    <script type="text/javascript" src="libs/WOW-master/js/wow.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
     @yield('js')
 </html>
