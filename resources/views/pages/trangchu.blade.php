@@ -55,7 +55,7 @@
 		</div>
 		<div class="col-md-6">
 			<div class="img-gioithieu1">
-			<img class="img-gioithieu" src="images-h/bao-tri-thang-may.jpg" alt="">
+				<img class="img-gioithieu" src="images-h/bao-tri-thang-may.jpg" alt="">
 			</div>
 		</div>
 	</div>
@@ -95,6 +95,379 @@
 				<img src="" alt="">
 			</div>
 		</div>
+	</div>
+</div>
+<div class="dich-vu container">
+	<div class="row ss">
+		<div class="col-md-4">
+			<a class="dich-vu-1" href="">
+				<div class="anh-dv">
+					<img class="img-dichvu" src="images-h/dich-vu-1.png" alt="">
+				</div>
+				<h3 class="title-dichvu">			
+					Tư vấn thiết bị thang máy
+				</h3>
+				<p class="text-dichvu">
+					Các sản phẩm lọc nước của Suplo luôn là số một trên toàn cầu trên mọi khía cạnh từ thiết kế đến công nghệ và độ bền, là lựa chọn lý tưởng cho các công trình giáo dục, y tế, văn phòng, thể thao, giải trí, nghỉ dưỡng, thương mại và các khu vực có mật độ và tần suất sử dụng cao.
+				</p>
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a class="dich-vu-1" href="">
+				<div class="anh-dv">
+					<img class="img-dichvu" src="images-h/dich-vu-1.png" alt="">
+				</div>
+				<h3 class="title-dichvu">			
+					Tư vấn thiết bị thang máy
+				</h3>
+				<p class="text-dichvu">
+					Các sản phẩm lọc nước của Suplo luôn là số một trên toàn cầu trên mọi khía cạnh từ thiết kế đến công nghệ và độ bền, là lựa chọn lý tưởng cho các công trình giáo dục, y tế, văn phòng, thể thao, giải trí, nghỉ dưỡng, thương mại và các khu vực có mật độ và tần suất sử dụng cao.
+				</p>
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a class="dich-vu-1" href="">
+				<div class="anh-dv">
+					<img class="img-dichvu" src="images-h/dich-vu-1.png" alt="">
+				</div>
+				<h3 class="title-dichvu">			
+					Tư vấn thiết bị thang máy
+				</h3>
+				<p class="text-dichvu">
+					Các sản phẩm lọc nước của Suplo luôn là số một trên toàn cầu trên mọi khía cạnh từ thiết kế đến công nghệ và độ bền, là lựa chọn lý tưởng cho các công trình giáo dục, y tế, văn phòng, thể thao, giải trí, nghỉ dưỡng, thương mại và các khu vực có mật độ và tần suất sử dụng cao.
+				</p>
+			</a>
+		</div>
+	</div>
+	<a class="bt-ct" href="" >Xem Chi Tiết</a>
+</div>
+
+<div class="mission">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-3">
+				<div class="service-item">
+					<a href="#">
+						<div class="img-left">
+							<i class="fas fa-dollar-sign"></i>
+						</div>
+						<div class="info-right">
+							<h3>Sáng tạo</h3>
+							<p>Với đội ngũ kiến trúc sư, kỹ sư, thợ lành nghề, dồi dào kinh nghiệm, công ty sẽ mang đến cho khách hàng sự hài lòng về chất lượng công trình đồng thời thể hiện được giá trị thương hiệu.</p>
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6 col-md-3">
+				<div class="service-item">
+					<a href="#">
+						<div class="img-left">
+							<i class="fas fa-comments"></i>
+						</div>
+						<div class="info-right">
+							<h3>An toàn</h3>
+							<p>Với đội ngũ kiến trúc sư, kỹ sư, thợ lành nghề, dồi dào kinh nghiệm, công ty sẽ mang đến cho khách hàng sự hài lòng về chất lượng công trình đồng thời thể hiện được giá trị thương hiệu.</p>
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6 col-md-3">
+				<div class="service-item">
+					<a href="#">
+						<div class="img-left">
+							<i class="fas fa-users"></i>
+						</div>
+						<div class="info-right">
+							<h3>Bảo mật</h3>
+							<p>Với đội ngũ kiến trúc sư, kỹ sư, thợ lành nghề, dồi dào kinh nghiệm, công ty sẽ mang đến cho khách hàng sự hài lòng về chất lượng công trình đồng thời thể hiện được giá trị thương hiệu.</p>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3">
+				<div class="service-item">
+					<a href="#">
+						<div class="img-left">
+							<i class="fas fa-cog"></i>
+						</div>
+						<div class="info-right">
+							<h3>Chất lượng</h3>
+							<p>Với đội ngũ kiến trúc sư, kỹ sư, thợ lành nghề, dồi dào kinh nghiệm, công ty sẽ mang đến cho khách hàng sự hài lòng về chất lượng công trình đồng thời thể hiện được giá trị thương hiệu.</p>
+						</div>
+					</a>
+				</div>
+			</div>     
+		</div>
+	</div>
+</div>
+<div class="sanpham-noibat container">
+	<h2 class="title-content">SẢN PHẨM NỔI BẬT</h2>
+	<div class="gach-chan container"></div>
+	<div class="text-kh">
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/4.jpg') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/1.jpg') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>	
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/2.png') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/3.png') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/4.jpg') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>
+		<div class="product-grid7">
+			<div class="product-image7">
+				<a href="#">
+					<img class="pic-1" src="{{ asset('images-h/1.jpg') }}">
+					<img class="pic-2" src="{{ asset('images-h/may.jpg') }}">
+				</a>
+				<ul class="social">
+					<li><a href="" class="fa fa-heart"></a></li>
+					<li><a href="" class="fa fa-eye"></a></li>
+					<li><a href="" class="fa fa-shopping-cart"></a></li>
+				</ul>
+
+			</div>
+			<div class="product-content">
+				<h3 class="title"><a href="#">thang máy khác sạn</a></h3>
+				<ul class="rating">
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+					<li class="fa fa-star"></li>
+				</ul>
+				<div class="price">$5.000000
+					<span>$10.00000</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div>
+	<a class="bt-ct" href="">Xem Chi Tiết</a></div>
+</div>
+<div class="tin-tuc container">
+	<h2 class="title-content">TIN TỨC</h2>
+	<div class="gach-chan container"></div>
+	<div class="row space-tt">
+		<div class="col-md-4">
+			<img class="img-tt" src="images-h/tintuc1.jpg" alt="">
+			<div class="date-time">
+				<p class="number-tt">02</p>
+				<div class="space"></div>
+				<p class="number-tt">Tháng Tám</p>
+			</div>
+			<a class="title-tt" href="">
+				CÔNG TY UNIECO TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN
+			</a>
+			<p class="text-tt">TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN</p>
+		</div>
+		<div class="col-md-4">
+			<img class="img-tt" src="images-h/tintuc1.jpg" alt="">
+			<div class="date-time">
+				<p class="number-tt">02</p>
+				<div class="space"></div>
+				<p class="number-tt">Tháng Tám</p>
+			</div>
+			<a class="title-tt" href="">
+				CÔNG TY UNIECO TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN
+			</a>
+			<p class="text-tt">TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN</p>
+		</div>
+		<div class="col-md-4">
+			<img class="img-tt" src="images-h/tintuc1.jpg" alt="">
+			<div class="date-time">
+				<p class="number-tt">02</p>
+				<div class="space"></div>
+				<p class="number-tt">Tháng Tám</p>
+			</div>
+			<a class="title-tt" href="">
+				CÔNG TY UNIECO TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN
+			</a>
+			<p class="text-tt">TUYỂN DỤNG BÓC TÁCH KHỐI LƯỢNG, DỰ TOÁN</p>
+		</div>	
+	</div>
+</div>
+<div class="doi-tac container">
+	<h2 class="title-content">ĐỐI TÁC CỦA CHÚNG TÔI</h2>
+	<div class="gach-chan container"></div>
+	<div class="space-tt doitac">
+		<img class="img-doitac" src="images-h/doitac1.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac2.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac3.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac4.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac5.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac6.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac7.PNG" alt="" style="height: 100px ">
+		<img class="img-doitac" src="images-h/doitac8.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac9.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac10.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac5.PNG" alt="">
+		<img class="img-doitac" src="images-h/doitac11.PNG" alt="">
+	</div>
+</div>
+<div class="nhanxet-kh container">
+	<h2 class="title-content">NHẬN XÉT KHÁCH HÀNG</h2>
+	<div class="gach-chan container"></div>
+	<div class="row space-tt">
+		<div class="col-md-4 text-center">
+			<img class="img-kh" src="images-h/kh1.jpg" alt="">
+			<h3 class="ten">Nhận xét của Mr. Khoi Pham</h3>
+			<span class="ceo">CEO Tập đoàn Amazon</span>
+			<p class="text-nx">“Các thiết bị lọc nước của Suplo đã hoạt động rất tốt và ổn định, đảm bảo yêu cầu chất lượng nước của khách hàng đề ra.”</p>
+		</div>	
+		<div class="col-md-4 text-center">
+			<img class="img-kh" src="images-h/kh2.jpg" alt="">
+			<h3 class="ten">Nhận xét của Mr. Khoi Pham</h3>
+			<span class="ceo">CEO Tập đoàn Amazon</span>
+			<p class="text-nx">“Các thiết bị lọc nước của Suplo đã hoạt động rất tốt và ổn định, đảm bảo yêu cầu chất lượng nước của khách hàng đề ra.”</p>
+		</div>	
+		<div class="col-md-4 text-center">
+			<img class="img-kh" src="images-h/kh-3.jpg" alt="">
+			<h3 class="ten">Nhận xét của Mr. Khoi Pham</h3>
+			<span class="ceo">CEO Tập đoàn Amazon</span>
+			<p class="text-nx">“Các thiết bị lọc nước của Suplo đã hoạt động rất tốt và ổn định, đảm bảo yêu cầu chất lượng nước của khách hàng đề ra.”</p>
+		</div>	
+
+	</div>
+</div>
+<div class="ds-kh container">
+	<h2 class="title-content">DANH SÁCH KHÁCH HÀNG</h2>
+	<div class="gach-chan container"></div>
+	<div class="space-tt doitac">
+		<img class="img-doitac" src="images-h/ds1.PNG" alt="" style="height: 111px;">
+		<img class="img-doitac" src="images-h/ds2.PNG" alt="">
+		<img class="img-doitac" src="images-h/ds3.PNG" alt="">
+		<img class="img-doitac" src="images-h/ds4.PNG" alt="">
+		<img class="img-doitac" src="images-h/ds4.jpg" alt="">
+		<img class="img-doitac" src="images-h/ds5.PNG" alt="">
+		<img class="img-doitac" src="images-h/ds3.PNG" alt="">
 	</div>
 </div>
 @endsection

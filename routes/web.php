@@ -12,13 +12,11 @@
 */
 
 Route::get('/', function () {
-<<<<<<< HEAD
     return view('master-layout');
 });
 Route::get('trangchu', function () {
     return view('pages.trangchu');
 });
-=======
+Route::get('gioithieu', function () {
     return view('pages.gioithieu');
 })->name('gioi-thieu');
->>>>>>> 838482f73437dd90af628351b14f80faf356cf1d
