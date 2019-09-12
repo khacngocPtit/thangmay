@@ -29,4 +29,7 @@ Route::get('/linhkienthangcuon', function () {
 Route::get('/linhkien', function () {
     return view('pages.linhkien');
 });
+Route::get('/gioithieu', function () {
+    return view('pages.gioithieu');
+});
 
