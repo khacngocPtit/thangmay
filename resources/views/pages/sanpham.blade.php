@@ -7,7 +7,6 @@
    <link rel="stylesheet" href="{{asset('css/linhkien.css')}}">
 @endsection
 @section('content')
-
 <main>
 	<div class="content_linhkien">
 		<div class="container">
@@ -144,28 +143,40 @@
  
                      </div>
                      <div class="col-lg-6 mt-4 col-md-12 fomm" >
-                         <form class="">
-                            <h3>Thang tải thực phẩm - TA 001</h3>
-                             <ul class="ull">
-                                 <li>Mã sản phẩm: HHDHGHD543</li>
-                                 <li>Loại:Nhật</li>
-                                 <li>6.000.000</li>
-                                 <li>Thương hiệu:KONE</li>
-                                 <li>Model: SKI70IQ</li>
-                                 <li>Đường đính cáp: vàng</li>
-                                 <li>Chiều dài:1m 32</li>
-                                 <li>Màu sắc: vàng</li>
-                                 <li>Bo mạch điện tử: part number</li>
-                                 <li>Khối lượng:50kg</li>
-                                 <li>Bảo hành:48 tháng</li>
-                             </ul>
-                             <div class="row add-to-cart mt-4">
-                <input type="number" min="1" value="1" class="amount">
-                <button class="btn add-cart" type="button">Mua ngay</button>
-              </div>
-                         </form>
+                         <h3 class="product-title">Bộ điều khiển cửa cabin thang máy</h3>
+                        <div class="rating">
+                            <div class="stars">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star"></span>
+                                <span class="fa fa-star"></span>
+                            </div>
+                            
+                        </div>
+                        <p class="product-description">Tủ điện thang máy có chức năng điều khiển mọi hoạt động của thang máy, thực tế các chức năng hoạch định phối hợp với các lệnh điều khiển của người sử dụng</p>
+                        <h4 class="price">Giá: <span>$180</span></h4>
+                        <p class="vote"><strong>91%</strong> của người mua rất thích sản phẩm này!<strong>(87 phiếu)</strong></p>
+                        <h5 class="sizes">Số lượng
+                            <input type="number" min="1" value="1" class="amount">
+                        </h5>
+                        <h5 class="colors">Nhãn hiệu
+                            <select class="nh">
+                                <option>Schindler</option>
+                                <option> Otis</option>
+                                <option>Thyssen</option>
+                                <option>Kone</option>
+                                <option>Schindler</option>
+                            </select>
+                            <span class="color orange not-available" data-toggle="tooltip" title="Not In store"></span>
+                            <span class="color green"></span>
+                            <span class="color blue"></span>
+                        </h5>
+                        <div class="action">
+                            <button class="add-to-cart btn btn-default" type="button">add to cart</button>
+                            <button class="like btn btn-default" type="button"><span class="fa fa-heart"></span></button>
+                        </div>
                      </div>
-
                             </div>
 						</div>
 					</div>

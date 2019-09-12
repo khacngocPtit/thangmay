@@ -27,6 +27,6 @@ Route::get('/linhkienthangcuon', function () {
     return view('pages.linhkienthangcuon');
 });
 Route::get('/linhkien', function () {
-    return view('pages.linhkien')
+    return view('pages.linhkien');
 });
 
